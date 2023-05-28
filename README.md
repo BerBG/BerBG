@@ -1,8 +1,34 @@
-## Olá! Eu me chamo Bernardo 👋
+🌟 Oportunidade de Estágio/Júnior em Desenvolvimento! 🌟
 
-- 🔭 Hoje eu faço tecnólogo em TI
-- 🌱 Estudando Java, C, Banco de dados
-- 👯 Procurando colaborar como suporte/desenvolvedor
+👉 Bernardo Portes Ferreira Gomes 👈
+
+🎯 Objetivo:
+Estou em busca de uma oportunidade de estágio ou posição júnior na área de desenvolvimento. Tenho habilidades em Java, C, SQL, HTML, CSS e JavaScript, além de conhecimentos em lógica de programação e orientação a objetos.
+
+📚 Formação:
+Tecnólogo em Análise e Desenvolvimento de Sistemas (previsão de conclusão em Junho de 2024)
+
+💼 Experiência:
+Atendente Telemarketing Ativo (1 ano e 5 meses)
+Estagiário de T.I. Suporte de Redes (2 meses)
+
+💻 Projeto Destaque:
+Desenvolvimento de um Sistema de Gerenciamento de Estoque utilizando Java, Spring Boot, Hibernate e MySQL. Funcionalidades incluíam cadastro de produtos, controle de estoque, entrada/saída, relatórios e controle de usuários.
+
+🌟 Habilidades:
+Java, C, SQL, HTML, CSS, JavaScript, Lógica de Programação, Orientação a Objetos
+
+📚 Cursos:
+Curso Web Moderno Completo com JavaScript (em andamento) - Udemy
+Treinamentos presenciais em Português, Redação Comercial, Qualidade no Atendimento ao Público, Raciocínio Lógico, Marketing Digital e Internet
+
+📩 Entre em contato:
+Celular: (41) 9 84767582
+E-mail: bgferreira0@gmail.com
+LinkedIn: https://www.linkedin.com/in/berbg/
+GitHub: https://github.com/BerBG
+
+Estou ansioso para contribuir com meu entusiasmo, conhecimentos e dedicação em um ambiente de desenvolvimento dinâmico. Se você está em busca de um talento promissor, não hesite em me contatar!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ber-JAVASCRIPT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
