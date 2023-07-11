@@ -23,7 +23,7 @@ Curso Web Moderno Completo com JavaScript (em andamento) - Udemy
 Treinamentos presenciais em Português, Redação Comercial, Qualidade no Atendimento ao Público, Raciocínio Lógico, Marketing Digital e Internet
 
 📩 Entre em contato:
-Celular: (41) 9 84767582
+Celular: (41) 9 88289508
 E-mail: bgferreira0@gmail.com
 LinkedIn: https://www.linkedin.com/in/berbg/
 GitHub: https://github.com/BerBG
