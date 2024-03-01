@@ -3,27 +3,24 @@
 👉 Bernardo Portes Ferreira Gomes 👈
 
 🎯 Objetivo:
-Estou em busca de uma oportunidade de estágio ou posição júnior na área de desenvolvimento. Tenho habilidades em Java, C, SQL, HTML, CSS e JavaScript, além de conhecimentos em lógica de programação e orientação a objetos.
+Estou em busca de uma oportunidade de estágio ou posição júnior na área de desenvolvimento Front-end ou Back-end.
 
 📚 Formação:
-Tecnólogo em Análise e Desenvolvimento de Sistemas (previsão de conclusão em Junho de 2024)
+Tecnólogo em Análise e Desenvolvimento de Sistemas (previsão de conclusão para Julho de 2024)
 
 💼 Experiência:
 Atendente Telemarketing Ativo (1 ano e 5 meses)
 Estagiário de T.I. Suporte de Redes (2 meses)
 
-💻 Projeto Destaque:
-Desenvolvimento de um Sistema de Gerenciamento de Estoque utilizando Java, Spring Boot, Hibernate e MySQL. Funcionalidades incluíam cadastro de produtos, controle de estoque, entrada/saída, relatórios e controle de usuários.
-
 🌟 Habilidades:
-Java, C, SQL, HTML, CSS, JavaScript, Lógica de Programação, Orientação a Objetos
+Tenho habilidades em Java, C, SQL, HTML, CSS e JavaScript, Typescript, React, Angular, Nestjs, Docker, Git além de conhecimentos em lógica de programação e orientação a objetos.
 
 📚 Cursos:
 Curso Web Moderno Completo com JavaScript (em andamento) - Udemy
-Treinamentos presenciais em Português, Redação Comercial, Qualidade no Atendimento ao Público, Raciocínio Lógico, Marketing Digital e Internet
+Treinamentos presenciais em Português, Redação Comercial, Qualidade no Atendimento ao Público, Raciocínio Lógico, Marketing Digital e Internet - CIEE.
 
 📩 Entre em contato:
-Celular: (41) 9 96407693
+Celular: (41) 9 92670872
 E-mail: bgferreira0@gmail.com
 LinkedIn: https://www.linkedin.com/in/berbg/
 GitHub: https://github.com/BerBG
