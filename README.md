@@ -1,9 +1,9 @@
-🌟 Oportunidade de Estágio/Júnior em Desenvolvimento! 🌟
+🌟 Júnior em Desenvolvimento! 🌟
 
 👉 Bernardo Portes Ferreira Gomes 👈
 
 🎯 Objetivo:
-Estou em busca de uma oportunidade de estágio ou posição júnior na área de desenvolvimento Front-end ou Back-end.
+Estou em busca de uma oportunidade para atuar como júnior na área de desenvolvimento Front-end/Back-end.
 
 📚 Formação:
 Tecnólogo em Análise e Desenvolvimento de Sistemas (previsão de conclusão para Julho de 2024)
@@ -13,10 +13,10 @@ Atendente Telemarketing Ativo (1 ano e 5 meses)
 Estagiário de T.I. Suporte de Redes (2 meses)
 
 🌟 Habilidades:
-Tenho habilidades em Java, C, SQL, HTML, CSS e JavaScript, Typescript, React, Angular, Nestjs, Docker, Git além de conhecimentos em lógica de programação e orientação a objetos.
+Tenho habilidades em Java, C, SQL, HTML, CSS e JavaScript, ReactJS, AngularJS, NestJS, Docker, Git, Mysql além de conhecimentos em lógica de programação e orientação a objetos.
 
 📚 Cursos:
-Curso Web Moderno Completo com JavaScript (em andamento) - Udemy
+Curso Web Moderno Completo com JavaScript Cod3rs - Udemy
 Treinamentos presenciais em Português, Redação Comercial, Qualidade no Atendimento ao Público, Raciocínio Lógico, Marketing Digital e Internet - CIEE.
 
 📩 Entre em contato:
@@ -24,8 +24,6 @@ Celular: (41) 9 92670872
 E-mail: bgferreira0@gmail.com
 LinkedIn: https://www.linkedin.com/in/berbg/
 GitHub: https://github.com/BerBG
-
-Estou ansioso para contribuir com meu entusiasmo, conhecimentos e dedicação em um ambiente de desenvolvimento dinâmico. Se você está em busca de um talento promissor, não hesite em me contatar!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ber-JAVASCRIPT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
