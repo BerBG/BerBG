@@ -14,7 +14,7 @@ Julho de 2024 – Atual
 - Criação e manutenção de APIs com .NET Core
 - Modelagem e manipulação de dados com SQL Server
 - Versionamento de código com Git
-- Trabalho com ferramentas como Visual Studio , VS Code e Docker
+- Trabalho com ferramentas como Visual Studio , VS Code
   
 Estagiário de T.I. – Suporte de Redes (Crbluecast)
 - Suporte técnico em redes e infraestrutura
