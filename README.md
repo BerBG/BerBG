@@ -37,6 +37,7 @@ Atendente Telemarketing Ativo (BTCC/TAHTO)
 📚 Formação
 Tecnólogo em Análise e Desenvolvimento de Sistemas
 Faculdade Senac
+
 Conclusão: Julho de 2024
 
 🧩 Cursos Complementares
