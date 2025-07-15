@@ -1,41 +1,64 @@
-🌟 Júnior em Desenvolvimento! 🌟
+👨‍💻 Bernardo Portes
+Desenvolvedor Front-end | Vue.js | .NET | SQL Server | Azure
 
-👉 Bernardo Portes Ferreira Gomes 👈
+🎯 Sobre Mim
+Sou tecnólogo em Análise e Desenvolvimento de Sistemas (formado em Julho/2024) e trabalho como desenvolvedor júnior na ZDZCode , onde atuo com Vue.js no front-end, .NET no back-end e utilizo SQL Server como banco de dados.
+Tenho experiência com Microsoft Azure e versionamento de código com Git .
+Estou em busca de novas oportunidades para continuar crescendo na área de desenvolvimento web e entregar soluções eficientes e escaláveis.
 
-🎯 Objetivo:
-Estou em busca de uma oportunidade para atuar como júnior na área de desenvolvimento Front-end/Back-end.
+💼 Experiência
+ZDZCode – Desenvolvedor Júnior
+Julho de 2024 – Atual
 
-📚 Formação:
-Tecnólogo em Análise e Desenvolvimento de Sistemas (previsão de conclusão para Julho de 2024)
+- Desenvolvimento de interfaces com Vue.js
+- Criação e manutenção de APIs com .NET Core
+- Modelagem e manipulação de dados com SQL Server
+- Versionamento de código com Git
+- Trabalho com ferramentas como Visual Studio , VS Code e Docker
+  
+Estagiário de T.I. – Suporte de Redes (Crbluecast)
+- Suporte técnico em redes e infraestrutura
+- Configuração e manutenção de equipamentos de rede
+3 meses
 
-💼 Experiência:
-Atendente Telemarketing Ativo (1 ano e 5 meses)
-Estagiário de T.I. Suporte de Redes (2 meses)
+Atendente Telemarketing Ativo (BTCC/TAHTO)
+- Atendimento ao cliente e prospecção comercial
+- Desenvolvimento de comunicação e resolução de problemas
+1 ano e 5 meses
 
-🌟 Habilidades:
-Tenho habilidades em Java, C, SQL, HTML, CSS e JavaScript, ReactJS, AngularJS, NestJS, Docker, Git, Mysql além de conhecimentos em lógica de programação e orientação a objetos.
+🛠 Habilidades Técnicas
+- Front-end: Vue.js, HTML, CSS, JavaScript, TypeScript
+- Back-end: .NET Core, C#
+- Banco de Dados: SQL Server
+- Cloud: Microsoft Azure
+- Ferramentas: Git, Docker, Visual Studio, VS Code
+- Idioma: Inglês (nível B2 - Intermediário)
 
-📚 Cursos:
-Curso Web Moderno Completo com JavaScript Cod3rs - Udemy
-Treinamentos presenciais em Português, Redação Comercial, Qualidade no Atendimento ao Público, Raciocínio Lógico, Marketing Digital e Internet - CIEE.
+📚 Formação
+Tecnólogo em Análise e Desenvolvimento de Sistemas
+Faculdade Senac
+Conclusão: Julho de 2024
 
-📩 Entre em contato:
-Celular: (41) 9 92670872
-E-mail: bgferreira0@gmail.com
-LinkedIn: https://www.linkedin.com/in/berbg/
-GitHub: https://github.com/BerBG
+🧩 Cursos Complementares
+- Curso Web Moderno Completo com JavaScript – Udemy
+- Treinamentos em:
+  Lógica de Programação
+  Qualidade no Atendimento
+  Português e Redação Comercial
+  Marketing Digital
+  
+📬 Contato
+📱 WhatsApp
+✉️ Email
+💼 LinkedIn
+🐱 GitHub
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ber-JAVASCRIPT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Ber-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Ber-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Ber-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Ber-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/ber_portes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bgferreira0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/berbg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+🌐 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg " height="30" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg " height="30" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg " height="30" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg " height="30" alt="Vue.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg " height="30" alt=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg " height="30" alt="SQL Server"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg " height="30" alt="Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg " height="30" alt="Git"/>
