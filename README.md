@@ -2,10 +2,12 @@
 Desenvolvedor Full-Stack | Vue.js | .NET | SQL Server | Azure
 
 
+
 🎯 Sobre Mim
 Sou tecnólogo em Análise e Desenvolvimento de Sistemas (formado em Julho/2024) e trabalho como desenvolvedor júnior na ZDZCode , onde atuo com Vue.js no front-end, .NET no back-end e utilizo SQL Server como banco de dados.
 Tenho experiência com Microsoft Azure e versionamento de código com Git .
 Estou em busca de novas oportunidades para continuar crescendo na área de desenvolvimento web e entregar soluções eficientes e escaláveis.
+
 
 
 💼 Experiência
@@ -31,6 +33,7 @@ Atendente Telemarketing Ativo (BTCC/TAHTO)
 1 ano e 5 meses
 
 
+
 🛠 Habilidades Técnicas
 - Front-end: Vue.js, HTML, CSS, JavaScript, TypeScript
 - Back-end: .NET Core, C#
@@ -40,11 +43,13 @@ Atendente Telemarketing Ativo (BTCC/TAHTO)
 - Idioma: Inglês (nível B2 - Intermediário)
 
 
+
 📚 Formação
 Tecnólogo em Análise e Desenvolvimento de Sistemas
 Faculdade Senac
 
 Conclusão: Julho de 2024
+
 
 
 🧩 Cursos Complementares
@@ -55,6 +60,7 @@ Conclusão: Julho de 2024
   Português e Redação Comercial
   Marketing Digital
   
+
 📬 Contato
 📱 WhatsApp
 ✉️ Email
