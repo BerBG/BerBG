@@ -1,5 +1,5 @@
 👨‍💻 Bernardo Portes
-Desenvolvedor Front-end | Vue.js | .NET | SQL Server | Azure
+Desenvolvedor Full-Stack | Vue.js | .NET | SQL Server | Azure
 
 🎯 Sobre Mim
 Sou tecnólogo em Análise e Desenvolvimento de Sistemas (formado em Julho/2024) e trabalho como desenvolvedor júnior na ZDZCode , onde atuo com Vue.js no front-end, .NET no back-end e utilizo SQL Server como banco de dados.
