@@ -60,7 +60,7 @@ Conclusão: Julho de 2024
   Português e Redação Comercial
   Marketing Digital
   
-&nbsp;&nbsp;
+<div>&nbsp;&nbsp;</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/berbg ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg " alt="LinkedIn" width="32" height="32" />
