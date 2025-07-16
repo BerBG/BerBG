@@ -62,11 +62,22 @@ Conclusão: Julho de 2024
   
 
 📬 Contato
-📱 WhatsApp
-✉️ Email
-💼 LinkedIn
-🐱 GitHub
 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/berbg ">
+    <img src="https://cdn.simpleicons.org/linkedin " alt="LinkedIn" width="32" />
+  </a>
+  <a href="mailto:bgfereira0@gmail.com">
+    <img src="https://cdn.simpleicons.org/google " alt="Email" width="32" />
+  </a>
+  <a href="https://wa.me/41992670872 ">
+    <img src="https://cdn.simpleicons.org/whatsapp " alt="WhatsApp" width="32" />
+  </a>
+  <a href="https://github.com/BerBG ">
+    <img src="https://cdn.simpleicons.org/github " alt="GitHub" width="32" />
+  </a>
+</div>
 
 🌐 Tech Stack
 <p align="center">
