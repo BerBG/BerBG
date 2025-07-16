@@ -60,7 +60,7 @@ Conclusão: Julho de 2024
   Português e Redação Comercial
   Marketing Digital
   
-
+&nbsp;&nbsp;
 <div align="center">
   <a href="https://www.linkedin.com/in/berbg ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg " alt="LinkedIn" width="32" height="32" />
@@ -75,8 +75,6 @@ Conclusão: Julho de 2024
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/BerBG ">
-    <img src="https://camo.githubusercontent.com/5691624b4c9aa41826d939b8d4f376bde6b76ba607757528c2d7d4e5a0b65f6c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d617468657573616e6472653126686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d64726163756c61266c6f63616c653d656e26686964655f626f726465723d66616c7365266f726465723d31 " alt="GitHub" width="32" height="32" />
-  </a>
 </div>
 
 <br /><br />
